@@ -38,4 +38,4 @@ python3 prometheus_exporter.py -cluster yh-cdh -nns http://10.193.40.10:50070/jm
 
 Listen at 0.0.0.0:6688 or open your browser to view metrics: http://127.0.0.1:6688/metrics
 
-![Dashboard screenshot](https://github.com/cloudx-group/prometheus_exporter/blob/1f594bf9103d1cafdfc1093cbf3aee3d0336d83d/src/docs/HDFS-NameNode.png)
+![Dashboard screenshot](./src/docs/HDFS-NameNode.png)

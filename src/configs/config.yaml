@@ -1,0 +1,6 @@
+# cx_hadoop_exporter config
+log_param:
+  is_logging: False             # On/Off logging. True - enable logging, False - disable logging
+  logging_level: INFO           # Logging severity DEBUG/INFO/WARNING/ERROR
+  path: None                    # Logging path. Default is None, will using script home directory
+  name: None                    # Specify name of the log file. Default None
